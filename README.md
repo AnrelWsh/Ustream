@@ -16,7 +16,6 @@ Le projet a été réalisé en duo, en utilisant Laravel pour l'affichage de l'A
 </ul>
 
 <hr>
-
 ## Page film :
 
 <ul>    
@@ -31,13 +30,26 @@ Le projet a été réalisé en duo, en utilisant Laravel pour l'affichage de l'A
 
 
 <hr>
+
 ## Page profil :
 
 <ul>    
     <li>Consulter ses albums privés et publics de films,</li>
     <li>Consulter ses albums partagés,</li>
-    <li>Note IMDB,</li>
-    <li>Affichage des acteurs,</li>
-    <li>Affichage des films similaires et navigation dessus</li>
-    <li>Recherche de films</li>
+    <li>Supprimer les films de ses albums,</li>
+    <li>Créer des albums privés ou publics,</li>
+    <li>Partager des albums avec d'autres utilisateurs (cela envoie une invitation à l'autre),</li>
+    <li>Voir tous les utilisateurs existants,</li>
+    <li>Voir tous les albums publics des utilisateurs et pouvoir les liker,</li>
+    <li>Recevoir des invitations</li>
+</ul>
+
+<hr>
+
+## Autres :
+
+<ul>    
+    <li>Possibilité de se créer un compte,</li>
+    <li>Possibilité de se connecter avec son compte,</li>
+    <li>Possibilité de se déconnecter et changer d'utilisateur</li>
 </ul>
