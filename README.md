@@ -1,5 +1,6 @@
 <p align="center"><img src="public/img/logo.png" width="400" alt="Laravel Logo"></p>
 
+</br>
 
 Le projet a été réalisé en duo, en utilisant Laravel pour l'affichage de l'API (TMDB) et avec du CSS et Tailwind pour la partie style.
 <li>Recherche de films,</li>
