@@ -17,6 +17,7 @@ Le projet a été réalisé en duo, en utilisant Laravel pour l'affichage de l'A
 </ul>
 
 <hr>
+
 ## Page film :
 
 <ul>    
